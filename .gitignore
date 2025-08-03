@@ -1,0 +1,9 @@
+# Ignore all .zip and .exe files
+*.zip
+*.exe
+*.csv
+
+# Ignore everything except PDFs
+!*.pdf
+
+downloads/*
